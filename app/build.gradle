@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.helloworld'
+    namespace 'com.MyOrg.helloworld'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.example.helloworld"
+        applicationId "com.MyOrg.helloworld"
         minSdk 24
         targetSdk 34
         versionCode 1
